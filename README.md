@@ -2,7 +2,7 @@
 
 Density peaks clustering by fast search is an algorithm capable of detecting clusters with complex shapes. It can identify non-spherical clusters or clusters of varying sizes, making it suitable for a variety of datasets.
 We dont need to specify the number of clusters in advance.
-It is also robust to noise.
+It is also robust to noise. ( Density Peaks clustering can handle noisy data or outliers without the need for preprocessing or outlier removal )
 Only a dataset and a dc value are needed in input.
 
 # Analysis step and code 
