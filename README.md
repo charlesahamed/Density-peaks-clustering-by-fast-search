@@ -13,4 +13,4 @@ The code can be found [here](https://github.com/charlesahamed/Phishing-data-anal
 
 # Presentation
 
-The presentation of the project can be found [here](https://docs.google.com/presentation/d/1M06Gd8PzId6Wh6xDnk3oV543sHFI8J_ZeWNEc8L_fug/edit?usp=sharing).
+The presentation of the project can be found [here](https://docs.google.com/presentation/d/1gtyTAtyjYBocPK5vpQT3S37q3MwBKQnORzgEpRe-1qg/edit?usp=sharing).
