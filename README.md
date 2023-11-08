@@ -9,7 +9,7 @@ Only a dataset and a dc value are needed in input.
 
 At first, with the code in Python I've proposed a pyhton implementation of the density peaks clustering by fast search algorithm made by Alessandro Laio and Alex rodriguez.
 Then i tested it on three different 2 dimensional datasets.
-The code can be found [here](https://github.com/charlesahamed/Phishing-data-analysis/blob/main/Financial_Data_Analysis_Project_Charles_AHAMED.ipynb).
+The code can be found [here](https://github.com/charlesahamed/Density-peaks-clustering-by-fast-search/blob/main/Charles_AHAMED_Clustering_by_fast_search_and_density_peaks_version_2.ipynb).
 
 # Presentation
 
